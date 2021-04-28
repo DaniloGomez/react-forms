@@ -3,11 +3,12 @@
     height: 550px;
     border: 1px solid red;
     align-items: center;
-    color: white;
+    color: black;
     margin: 0 auto;
     align-items: flex-end;
     margin-left: 660px;
-    background-color: black; opacity: 0.8;
+    background-color: rgb(255, 255, 255); 
+    opacity: 0.6;
     margin-top: -25px;
     border-radius: 10px;
 }
