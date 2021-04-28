@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+body{
+  margin-top: 20px;
+  align-items: center;
+  background-size: cover;
+  background-image: url("https://lh3.googleusercontent.com/proxy/a8GAH4ZePOd5tNEQe5-9PCBzRkNgDsci7qqQ_jL4_C3MrqAxV-cixo5sMp7IZTdiFecqlug014tTbp1uc9YsLvC9EFnwIcfS5p72OheY-NfvbIMXvPYDTT1F7I801VxLV8FpKZT0mEO5VAWF");
+}

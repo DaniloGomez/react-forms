@@ -1,5 +1,11 @@
 .storepage{
     width: 500px;
-    border: 2px solid gold;
-    background-color: turquoise;
+    height: 550px;
+    background-color: rgb(40, 25, 88);
+    align-items: flex-start;
+    border: 1px solid gold;
+    margin-left: 20px;
+    color: white;
+    border-radius: 10px;
+    opacity: 0.8;
 }

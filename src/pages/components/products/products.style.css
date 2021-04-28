@@ -1,0 +1,13 @@
+.productpage{
+    width: 498px;
+    height: 550px;
+    border: 1px solid red;
+    align-items: center;
+    color: white;
+    margin: 0 auto;
+    align-items: flex-end;
+    margin-left: 660px;
+    background-color: black; opacity: 0.8;
+    margin-top: -25px;
+    border-radius: 10px;
+}
